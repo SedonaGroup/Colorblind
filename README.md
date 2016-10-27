@@ -1,2 +1,2 @@
 # Colorblind
-Small tool to help colorbling people on Windows
+Small tool to help colorblind people on Windows
